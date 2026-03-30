@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 ----
 
 🔬 About Me
+
 🧠 Building AI models for OMICs data
 🧪 Working with high-dimensional biological datasets
 📊 Focused on reproducible, data-driven research
@@ -13,10 +14,12 @@ Here are some ideas to get you started:
 ---- 
 
 🚀 Current Focus
+
 Deep learning for genomics & transcriptomics
 Scalable bioinformatics pipelines
 Model interpretability
 
 📫 Contact
+
 💼 LinkedIn: your link
 📧 Email: your email
