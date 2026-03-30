@@ -5,8 +5,18 @@ Here are some ideas to get you started:
 
 ----
 🛠️ Tech Stack
-
-
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-4.x-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-latest-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-latest-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-latest-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-latest-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Boto3](https://img.shields.io/badge/Boto3-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://boto3.amazonaws.com/)
+[![Biopython](https://img.shields.io/badge/Biopython-latest-9ACD32?style=for-the-badge)](https://biopython.org/)
+[![pyfaidx](https://img.shields.io/badge/pyfaidx-latest-4CAF50?style=for-the-badge)](https://github.com/mdshw5/pyfaidx)
+[![Samtools](https://img.shields.io/badge/Samtools-latest-1A4D2E?style=for-the-badge)](http://www.htslib.org/)
+[![Bedtools](https://img.shields.io/badge/Bedtools-latest-2E8B57?style=for-the-badge)](https://bedtools.readthedocs.io/)
+[![GATK4](https://img.shields.io/badge/GATK4-latest-0055B8?style=for-the-badge)](https://gatk.broadinstitute.org/)
 🔬 About Me
 
 - 🧠 Building AI models for OMICs data
@@ -23,5 +33,4 @@ I am currently focused on developing deep learning models for plant OMICs datase
 
 📫 Contact
 
-💼 LinkedIn: http://www.linkedin.com/in/fpeleke
-📧 Email: fpeleke@icloud.com
+💼 LinkedIn: http://www.linkedin.com/in/fpeleke and 📧 Email: fpeleke@icloud.com
