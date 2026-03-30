@@ -2,7 +2,7 @@
 
 🧬 Bioinformatics | 🤖 AI for OMICs | 🎓 Dedicated lifelong learner
 
-🛠️ ### Tech Stack
+🛠️ ###Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-4.x-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -26,7 +26,7 @@
 
 ---- 
 
-🔬 ### About Me
+🔬 ###About Me
 
 - 🧠 Passionate about learning new technologies to build impactful AI models for biological research.
 - 🧪 Collaborating with breeding companies to translate genetic insights into actionable field applications.
@@ -35,12 +35,12 @@
 
 ---- 
 
-🚀 ### Current Focus
+🚀 ###Current Focus
 
 ### Deep learning for genomics & transcriptomics
 
 I am developing scalable, interpretable deep learning models for plant OMICs datasets, integrating multi-modal data types to model complex gene expression and genomic patterns.
 
-📫 ### Contact
+📫 ###Contact
 
 💼 LinkedIn: http://www.linkedin.com/in/fpeleke and 📧 Email: fpeleke@icloud.com
