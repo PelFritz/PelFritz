@@ -1,7 +1,6 @@
 ## Peleke Fritz (🎓 Ph.D )
 
 🧬 Bioinformatics | 🤖 AI for OMICs | 🎓 Dedicated lifelong learner
-Here are some ideas to get you started:
 
 ----
 🛠️ Tech Stack
