@@ -1,4 +1,4 @@
-## Peleke Fritz (🎓 Ph.D )
+## Peleke Fritz 🎓 Ph.D 
 
 🧬 Bioinformatics | 🤖 AI for OMICs | 🎓 Dedicated lifelong learner
 
@@ -28,10 +28,10 @@
 
 🔬 About Me
 
-- 🧠 Enthusiastic about learning new tech. Currently expanding my skills to build more usable AI models to drive biological research forward.
-- 🧪 Working with breeding companies to help them make sense of genetic variations in silico and transfer this knowledge to fields.
-- 📊 Focused on reproducible, data-driven research.
-- **Aspire to lead a team at a tech giant like Google, focusing on applying bioinformatics and AI to advance plant science.**
+- 🧠 Passionate about learning new technologies to build impactful AI models for biological research.
+- 🧪 Collaborating with breeding companies to translate genetic insights into actionable field applications.
+- 📊 Committed to reproducible, data-driven research.
+- 🚀 **Aspire to lead a team at a tech giant like Google, focusing on applying bioinformatics and AI to advance plant science.**
 
 ---- 
 
@@ -39,7 +39,7 @@
 
 ### Deep learning for genomics & transcriptomics
 
-I am currently focused on developing deep learning models for plant OMICs datasets, with an emphasis on building large, scalable and interpretable multi-modal architectures that integrate diverse data types. My work aims to better model and solve the complex, multi-faceted nature of gene expression.
+I am developing scalable, interpretable deep learning models for plant OMICs datasets, integrating multi-modal data types to model complex gene expression and genomic patterns.
 
 📫 Contact
 
