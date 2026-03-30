@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 🔬 About Me
 
-🧠 Building AI models for OMICs data
-🧪 Working with high-dimensional biological datasets
-📊 Focused on reproducible, data-driven research
+- 🧠 Building AI models for OMICs data
+- 🧪 Working with high-dimensional biological datasets
+- 📊 Focused on reproducible, data-driven research
 
 ---- 
 
