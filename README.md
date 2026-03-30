@@ -10,6 +10,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-latest-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-latest-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-latest-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Scipy](https://img.shields.io/badge/SciPy-latest-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-latest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://boto3.amazonaws.com/)
 [![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
 [![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
