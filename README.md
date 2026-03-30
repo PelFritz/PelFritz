@@ -2,7 +2,6 @@
 
 🧬 Bioinformatics | 🤖 AI for OMICs | 🎓 Dedicated lifelong learner
 
-----
 🛠️ Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -17,6 +16,8 @@
 [![Samtools](https://img.shields.io/badge/Samtools-latest-1A4D2E?style=for-the-badge)](http://www.htslib.org/)
 [![Bedtools](https://img.shields.io/badge/Bedtools-latest-2E8B57?style=for-the-badge)](https://bedtools.readthedocs.io/)
 [![GATK4](https://img.shields.io/badge/GATK4-latest-0055B8?style=for-the-badge)](https://gatk.broadinstitute.org/)
+
+---- 
 
 🔬 About Me
 
