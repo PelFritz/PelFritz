@@ -1,15 +1,22 @@
-## Peleke Fritz (Ph.D)
+## Peleke Fritz (🎓 Ph.D )
 
-Bioinformatician|Deep learning Expert|Researcher&Development 
-
+🧬 Bioinformatics | 🤖 AI for OMICs | 🎓 Dedicated lifelong learner
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+🔬 About Me
+🧠 Building AI models for OMICs data
+🧪 Working with high-dimensional biological datasets
+📊 Focused on reproducible, data-driven research
+
+---- 
+
+🚀 Current Focus
+Deep learning for genomics & transcriptomics
+Scalable bioinformatics pipelines
+Model interpretability
+
+📫 Contact
+💼 LinkedIn: your link
+📧 Email: your email
