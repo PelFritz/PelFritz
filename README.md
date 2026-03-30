@@ -1,7 +1,6 @@
-## Hi there 👋
+## Peleke Fritz (Ph.D)
 
-<!--
-**PelFritz/PelFritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatician|Deep learning Expert|Researcher&Development 
 
 Here are some ideas to get you started:
 
