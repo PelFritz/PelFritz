@@ -46,3 +46,11 @@ I am developing scalable, interpretable deep learning models for plant OMICs dat
 💼 [LinkedIn](http://www.linkedin.com/in/fpeleke) |  
 📧 fpeleke@icloud.com |  
 📖 [Google Scholar](https://scholar.google.com/citations?user=rf7uph4AAAAJ&hl=de)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PelFritz&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelFritz&layout=compact&theme=radical" alt="Top Languages" />
+</p>
