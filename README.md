@@ -4,6 +4,8 @@
 Here are some ideas to get you started:
 
 ----
+🛠️ Tech Stack
+
 
 🔬 About Me
 
@@ -21,5 +23,5 @@ Model interpretability
 
 📫 Contact
 
-💼 LinkedIn: your link
-📧 Email: your email
+💼 LinkedIn: http://www.linkedin.com/in/fpeleke
+📧 Email: fpeleke@icloud.com
