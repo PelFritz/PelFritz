@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 
 ----
 🛠️ Tech Stack
+
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-4.x-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-latest-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -17,11 +18,12 @@ Here are some ideas to get you started:
 [![Samtools](https://img.shields.io/badge/Samtools-latest-1A4D2E?style=for-the-badge)](http://www.htslib.org/)
 [![Bedtools](https://img.shields.io/badge/Bedtools-latest-2E8B57?style=for-the-badge)](https://bedtools.readthedocs.io/)
 [![GATK4](https://img.shields.io/badge/GATK4-latest-0055B8?style=for-the-badge)](https://gatk.broadinstitute.org/)
+
 🔬 About Me
 
-- 🧠 Building AI models for OMICs data
-- 🧪 Working with high-dimensional biological datasets
-- 📊 Focused on reproducible, data-driven research
+- 🧠 Enthusiastic about learning new tech. Currently expanding my skills to build more usable AI models to drive biological research forward.
+- 🧪 Working with breeding companies to help them make sense of genetic variations in silico and transfer this knowledge to fields.
+- 📊 Focused on reproducible, data-driven research.
 
 ---- 
 
