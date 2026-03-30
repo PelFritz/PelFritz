@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🚀 Current Focus
 
-Deep learning for genomics & transcriptomics
-Scalable bioinformatics pipelines
-Model interpretability
+### Deep learning for genomics & transcriptomics
+
+I am currently focused on developing deep learning models for plant OMICs datasets, with an emphasis on building large, scalable and interpretable multi-modal architectures that integrate diverse data types. My work aims to better model and solve the complex, multi-faceted nature of gene expression.
 
 📫 Contact
 
