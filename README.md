@@ -31,7 +31,7 @@
 - 🧠 Enthusiastic about learning new tech. Currently expanding my skills to build more usable AI models to drive biological research forward.
 - 🧪 Working with breeding companies to help them make sense of genetic variations in silico and transfer this knowledge to fields.
 - 📊 Focused on reproducible, data-driven research.
-- Aspire to lead a team at a tech giant like Google, focusing on applying bioinformatics and AI to advance plant science.
+- **Aspire to lead a team at a tech giant like Google, focusing on applying bioinformatics and AI to advance plant science.**
 
 ---- 
 
